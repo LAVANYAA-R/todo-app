@@ -1,6 +1,6 @@
 # 📋 RVCE Todo App — DevOps Lab Manual
 
-This manual contains the absolute minimal commands required to execute DevOps Experiments 1–9 (excluding 6).
+The manual contains the absolute minimal commands required to execute DevOps Experiments 1–9 (excluding 6).
 
 ---
 
